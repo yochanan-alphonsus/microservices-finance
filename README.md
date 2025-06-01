@@ -27,7 +27,7 @@ Handles authentication (I didn't get too far with the JWT thing).
 | Method | Endpoint | Description    |
 | ------ | -------- | -------------- |
 | POST   | `/`      | Sign Up a user |
-| POST   | `/`      | Sign In a user |
+| GET   | `/`      | Sign In a user |
 
 ---
 
