@@ -16,8 +16,6 @@ Each microservice is independently deployable and discoverable via Eureka:
 | Budgets       | `/api/budgets`      | Budget creation and management         |
 | Categories    | `/api/categories`   | Expense and income category management |
 
-![Service Map](./service-map.png)
-
 ---
 
 ## 🔐 Auth Service - `/api/auth`
