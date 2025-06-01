@@ -85,19 +85,20 @@ Handles authentication (I didn't get too far with the JWT thing).
 - **Spring Security**
 - **PostgreSQL**
 - **Eureka Server + Eureka Client**
+- **Expressjs + Prisma**
 
 ---
 
 ## 📦 Run Locally
 
 ```bash
-git clone https://github.com/yochanan-alphonsus/microservices-finance-api.git
-cd microservices-finance-api
+git clone https://github.com/yochanan-alphonsus/microservices-finance.git
+cd microservices-finance
 ```
 
 ## 🤝 Contributing
 
-We welcome contributions!
+I welcome contributions!
 
 1. Fork the project
 2. Create your branch
